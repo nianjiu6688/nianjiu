@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apk": "https://ghfast.top/https://raw.githubusercontent.com/nianjiu6688/nianjiu/main/nianjiu-1.4.apk",
-  "changelog": "1. 机型库扩到 291 款 / 19 厂商，厂商分组 + 筛选 + 搜索\n2. 移除卡密验证，启动即用\n3. 弹窗缩放、切页淡入、列表按压、页面转场动画\n4. 更新地址换实时镜像，修复 Windows 代理下读不到新版本的问题"
+  "versionCode": 7,
+  "versionName": "1.5",
+  "apk": "https://ghfast.top/https://raw.githubusercontent.com/nianjiu6688/nianjiu/main/nianjiu-1.5.apk",
+  "changelog": "1. 界面重做：优化 / 设备信息与环境 / 设置 三个页签，底部液态玻璃导航，\n2. 脚本预览和执行日志各占一张卡片，框里能单独滑动，长脚本也看得全\n3. 设置并进主界面，夜间模式、更新检查、快照清理、偏好重置都在里面，不用再点顶部图标\n4. 机型方案大补：179 款老方案补上厂商性能通道和回读校验，新增 107 款专属方案，机型库 286 款 / 20 品牌\n5. 修复 31 个机型编号重复，方案不会再串到别的机器上\n6. 机型列表重排，常用品牌在前，同品牌新机靠前，找机器更快\n7. 权限检测优化
 }
