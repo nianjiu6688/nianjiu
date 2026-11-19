@@ -1,6 +1,6 @@
 {
   "versionCode": 4,
   "versionName": "1.3",
-  "apk": "https://fastly.jsdelivr.net/gh/nianjiu6688/nianjiu@main/nianjiu-1.3.apk",
+  "apk": "https://ghfast.top/https://raw.githubusercontent.com/nianjiu6688/nianjiu/main/nianjiu-1.3.apk",
   "changelog": "1. 机型库扩到 291 款 / 19 厂商，厂商分组 + 筛选 + 搜索\n2. 移除卡密验证，启动即用\n3. 弹窗缩放、切页淡入、列表按压、页面转场动画\n4. 联网更新改多 CDN 节点，自动切换到能连通的那条"
 }
