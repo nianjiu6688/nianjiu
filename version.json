@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.5",
-  "apk": "https://ghfast.top/https://raw.githubusercontent.com/nianjiu6688/nianjiu/main/nianjiu-1.5.apk",
-  "changelog": "1. 新增顶部悬浮提示，进入主页时显示「已连接服务器，使用愉快」\n2. 优化完成、还原完成时也会弹一条顶部提示，反馈更直观\n3. 执行日志新增「复制」按钮，一键把全文复制到剪贴板\n4. 优化或还原执行过程中锁定操作，避免重复点击导致脚本交叉执行\n5. \n6.优化厂商专属优化通道稳定性与有效性\n7. 机型详情与顶部信息栏显示开机实测到的系统版本（如 ColorOS 16 / OriginOS 6）\n8. 厂商私有键名探测式写入并回读确认，ADPF 固定性能模式兜底\n9.修复其他已知问题
+  "versionCode": 14,
+  "versionName": "1.6",
+  "apk": "https://ghfast.top/https://raw.githubusercontent.com/nianjiu6688/nianjiu/main/nianjiu-1.6.apk",
+  "changelog": "1. 新增顶部悬浮提示，进入主页时显示「已连接服务器，使用愉快」\n2. 优化完成、还原完成时也会弹一条顶部提示，反馈更直观\n3. 执行日志新增「复制」按钮，一键把全文复制到剪贴板\n4. 优化或还原执行过程中锁定操作，避免重复点击导致脚本交叉执行\n5. 优化厂商专属优化通道稳定性与有效性\n6. 机型详情与顶部信息栏显示开机实测到的系统版本（如 ColorOS 16 / OriginOS 6）\n7. 厂商私有键名探测式写入并回读确认，ADPF 固定性能模式兜底\n8. 修复其他已知问题。"
 }
